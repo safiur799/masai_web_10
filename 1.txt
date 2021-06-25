@@ -2,3 +2,6 @@ git init //initialised the git repo
 git status //this will tell you the status of all the folders and file
 git add //to add file and folder into repo
 git commit// mention the comment you want to make
+git push origin master
+git branch //gives all the branch and the branch you are in 
+making changes
