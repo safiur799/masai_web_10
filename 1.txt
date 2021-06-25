@@ -1,2 +1,4 @@
 git init //initialised the git repo
 git status //this will tell you the status of all the folders and file
+git add //to add file and folder into repo
+git commit// mention the comment you want to make
